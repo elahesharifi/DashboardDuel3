@@ -33,11 +33,9 @@ This dashboard, developed in collaboration with **Helene Hinskens**, includes th
   - **Techionista Academy**
   - **Winc Academy**
 
-<video width="600" controls>
+<video width="800" controls>
   <source src="https://github.com/elahesharifi/DashboardDuel3/raw/main/Dashboardduel3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
-
-![](https://github.com/elahesharifi/DashboardDuel3/raw/main/Dashboardduel3.mp4)
