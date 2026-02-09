@@ -1,4 +1,4 @@
-# 📊 TechMeUp Impact Analysis | Dashboard Duel 3
+# 📊  Career Pivots in the Dutch Tech Market | TechMeUp Impact Analysis | Dashboard Duel 3
 
 This repository contains my entry for the **Dashboard Duel**, a data competition hosted by [**Inergy**](https://inergy.nl/) and [**Get Responsive**](https://get-responsive.com/). This project visualizes the impact of [**TechMeUp**](https://www.techmeup.nl/), a Dutch foundation offering interest-free loans to help individuals transition into tech careers.
 
